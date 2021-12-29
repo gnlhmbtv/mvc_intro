@@ -1,7 +1,30 @@
 ﻿
 @{
     ViewData["Title"] = "Index";
+    int count = 0;
 }
 
 <h1>Index</h1>
+@*<p>Sudent Name: @ViewBag.Name</p>*@
+@*@foreach(var item in ViewBag.Students)
+    {
+        count++;
+        <p>@count</p>
+        <p>@item.Id</p>
+        <p>@item.Name</p>
+        <p>@item.Age</p>
+    }*@
+@*@foreach (var item in (List<Student>)ViewData["students"])
+{
+    count++;
+    <p>@count</p>
+    <p>@item.Id</p>
+    <p>@item.Name</p>
+    <p>@item.Age</p>
+}*@
+<p>Name: @ViewBag.Name</p>
+<p>Surname: @ViewData["LastName"]</p>
+<p>Age: @TempData["Age"]</p>
+
+
 

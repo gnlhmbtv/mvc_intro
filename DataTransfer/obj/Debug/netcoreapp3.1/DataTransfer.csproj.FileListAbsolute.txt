@@ -107,3 +107,4 @@ C:\Users\user\Desktop\mvc\DataTransfer\DataTransfer\obj\Debug\netcoreapp3.1\Razo
 C:\Users\user\Desktop\mvc\DataTransfer\DataTransfer\obj\Debug\netcoreapp3.1\Razor\Views\home\Test.cshtml.g.cs
 C:\Users\user\Desktop\mvc\DataTransfer\DataTransfer\obj\Debug\netcoreapp3.1\Razor\Views\home\Index.cshtml.g.cs
 C:\Users\user\Desktop\mvc\DataTransfer\DataTransfer\obj\Debug\netcoreapp3.1\Razor\Views\home\About.cshtml.g.cs
+C:\Users\user\Desktop\mvc\DataTransfer\DataTransfer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
